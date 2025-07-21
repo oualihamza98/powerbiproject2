@@ -8,4 +8,4 @@
 - published the report and created a dashboard  
   
 ## **here is our data model**
-![data model](.\model.PNG)
+![data model](./model.PNG)
